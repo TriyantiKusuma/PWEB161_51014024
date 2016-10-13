@@ -1,0 +1,8 @@
++10 tugas selesai minimal 5 lagu
++10 untuk 5 link
++2 untuk gambar background index html
++5 untuk halaman lagu yang bisa back ke index html.html
++5 untuk judul lagu yang link ke wikipedia
++2 untuk link facebook dari halaman index
+-5 untuk yang tidak kasih masuk hari ini
+score nilai 29
