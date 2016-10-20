@@ -1,0 +1,4 @@
++10 tugas siap
++10 untuk 10 lagu tambahan setelah 5 lagu pertama
+-1 untuk setiap penggunaan opsi tag height dan witdh = 15
+score total = 0
