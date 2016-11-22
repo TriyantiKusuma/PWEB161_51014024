@@ -1,0 +1,4 @@
++ 10 untuk tugas selesai (sudah sync ke Github per tanggal 02/11/16 23:59 PM)
++ 15 untuk setiap selector yang lebih dari 5 properties
++ 2  untuk setiap class ke-5 sampai .class ke-10
+total score = 27
