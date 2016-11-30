@@ -1,0 +1,24 @@
+<p><h2><center>Mengenai Permainan Basket</p></h2></center><hr></hr>
+<p><justify>
+Seperti telah diuraikan di atas permainan Bola Basket dimainkan oleh dua regu, masing-masing terdiri dari 5 orang pemain. Wasit yang memimpin terdiri dari 2 orang yagn senantiasa berganti posisi. Waktu bermain yang resmi 2 x 20 menit bersih, tidak termasuk masa istirahat 10 menit, time out, dua kali bagi masing-masing regu tiap babak selama 1 menit, saat pergantian pemain dan atau peluit dibunyikan wasit karena bola ke luar lapangan atau terjadi pelanggaran/kesalahan seperti foul dan travelling. Apabila dalam pertandingan resmi (yang dimaksud disini bukan pertandingan persahabatan) terjadi pengumpulan angka sama, waktu diperpanjang sekian babak (tiap 5 menit) sampai terjadi perbedaan angka.
+Khusus untuk permainan Mini Basket yang diperuntukkan anak-anak di bawah umur 13 tahun, diberlakukan peraturan tersendiri yang agak beda, antara lain : bola yang dipergunakan lebih kecil dan lebih ringan, pemasangan keranjang yang lebih rendah, waktu pertandingan 4 x 10 menit dengan 3 kali istirahat dan lainnya lagi seperti dalam hal penggantian pemain.
+Peraturan permainan yang dipergunakan sangat tergantung daripada peraturan PERBAIS/FIBA mana yang berlaku. Misalnya pada tahun 1984, peraturan permainan yang berlaku adalah Peraturan Permainan PERBASI/FIBA tahun 1980 – 1984.
+Alat-Alat Perlengkapan dan Lapangan.
+Peraturan Permainan Bola Basket
+<ul>
+Aturan dasar pada permainan Bola Basket adalah sebagai berikut.
+<li>Bola dapat dilemparkan ke segala arah dengan menggunakan salah satu atau kedua tangan.
+<li>Bola dapat dipukul ke segala arah dengan menggunakan salah satu atau kedua tangan, tetapi tidak boleh dipukul menggunakan kepalan tangan (meninju).
+<li>Pemain tidak diperbolehkan berlari sambil memegang bola. Pemain harus melemparkan bola tersebut dari titik tempat menerima bola, tetapi diperbolehkan apabila pemain tersebut berlari pada kecepatan biasa.
+<li>Bola harus dipegang di dalam atau diantara telapak tangan. Lengan atau anggota tubuh lainnya tidak diperbolehkan memegang bola.
+<li>Pemain tidak diperbolehkan menyeruduk, menahan, mendorong, memukul, atau menjegal pemain lawan dengan cara bagaimanapun. Pelanggaran pertama terhadap peraturan ini akan dihitung sebagai kesalahan, pelanggaran kedua akan diberi sanksi berupa pendiskualifikasian pemain pelanggar hingga keranjang timnya dimasuki oleh bola lawan, dan apabila pelanggaran tersebut dilakukan dengan tujuan untuk mencederai lawan, maka pemain pelanggar akan dikenai hukuman tidak boleh ikut bermain sepanjang pertandingan. Pada masa ini, pergantian pemain tidak diperbolehkan.
+<li>Sebuah kesalahan dibuat pemain apabila memukul bola dengan kepalan tangan (meninju), melakukan pelanggaran terhadap aturan 3 dan 4, serta melanggar hal-hal yang disebutkan pada aturan 5.
+<li>Apabila salah satu pihak melakukan tiga kesalahan berturut-turut, maka kesalahan itu akan dihitung sebagai gol untuk lawannya (berturut-turut berarti tanpa adanya pelanggaran balik oleh lawan).
+<li>Gol terjadi apabila bola yang dilemparkan atau dipukul dari lapangan masuk ke dalam keranjang, dalam hal ini pemain yang menjaga keranjang tidak menyentuh atau mengganggu gol tersebut. Apabila bola terhenti di pinggir keranjang atau pemain lawan menggerakkan keranjang, maka hal tersebut tidak akan dihitung sebagai sebuah gol.
+<li>Apabila bola keluar lapangan pertandingan, bola akan dilemparkan kembali ke dalam dan dimainkan oleh pemain pertama yang menyentuhnya. Apabila terjadi perbedaan pendapat tentang kepemilikan bola, maka wasitlah yang akan melemparkannya ke dalam lapangan. Pelempar bola diberi waktu 5 detik untuk melemparkan bola dalam genggamannya. Apabila ia memegang lebih lama dari waktu tersebut, maka kepemilikan bola akan berpindah. Apabila salah satu pihak melakukan hal yang dapat menunda pertandingan, maka wasit dapat memberi mereka sebuah peringatan pelanggaran.
+<li>Wasit berhak untuk memperhatikan permainan para pemain dan mencatat jumlah pelanggaran dan memberi tahu wasit pembantu apabila terjadi pelanggaran berturut-turut. Wasit memiliki hak penuh untuk mendiskualifikasi pemain yang melakukan pelanggaran sesuai dengan yang tercantum dalam aturan 5.
+<li>Wasit pembantu memperhatikan bola dan mengambil keputusan apabila bola dianggap telah keluar lapangan, pergantian kepemilikan bola, serta menghitung waktu. Wasit pembantu berhak menentukan sah tidaknya suatu gol dan menghitung jumlah gol yang terjadi.
+<li>Waktu pertandingan adalah 4 quarter masing-masing 10 menit
+<li>Pihak yang berhasil memasukkan gol terbanyak akan dinyatakan sebagai pemenang
+</ul>
+</p></justify>
